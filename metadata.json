@@ -1,0 +1,6 @@
+{
+  "name": "SKSS PWA Builds",
+  "description": "A Node.js + Electron + Bubblewrap CLI desktop application that builds Android APKs from PWA links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
